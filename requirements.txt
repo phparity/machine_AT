@@ -1,0 +1,8 @@
+Django==4.2
+mysqlclient==2.1.1
+pyzk==0.9
+zk==0.8.5
+pandas==2.0.1
+SQLAlchemy==2.0.11
+PyMySQL==1.0.3
+psycopg2==2.9.6

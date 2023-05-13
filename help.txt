@@ -1,0 +1,1 @@
+for zk lib to work with device : https://pyzk.readthedocs.io/en/stable/genindex.html
